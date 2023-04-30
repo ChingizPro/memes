@@ -37,3 +37,19 @@ img {
     padding: 5px 0;
     border-bottom: 1px dashed black;
 }
+@media(max-width:550px){
+    .wrap {
+        padding: 20px;
+    }
+    .pic {
+        max-width: 100%;
+    }
+    .generate {
+        font-size: 24px;
+        padding: 7px 15px;
+        margin-bottom: 25px;
+    }
+    .title {
+        font-size: 25px;
+    }
+}
