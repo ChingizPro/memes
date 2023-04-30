@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Comic Neue', cursive;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.wrap {
+    padding: 50px;
+    text-align: center;
+}
+.generate {
+    background-color: gold;
+    padding: 10px 25px;
+    font-size: 27px;
+    border: 1px solid black;
+    cursor: pointer;
+    margin-bottom: 40px;
+}
+.title {
+    font-size: 27px;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.pic {
+    margin-bottom: 15px;
+    max-width: 400px;
+}
+.author {
+    color: black;
+    display: inline-block;
+    font-style: italic;
+    font-size: 18px;
+    padding: 5px 0;
+    border-bottom: 1px dashed black;
+}
